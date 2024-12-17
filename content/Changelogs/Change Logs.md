@@ -11,6 +11,8 @@ tags:
 - Thêm mới: [[Ưu Đãi - Gói Siêu Khuyến Mãi]].
 - Thêm mới: [[Ưu Đãi - Gói Kim Cương]].
 - Thêm mới: [[Ưu Đãi - Nạp Đơn]].
+- Thêm mới: [[Ưu Đãi - Thẻ Quà Lớn]].
+- Thêm mới: [[Ưu Đãi - Thẻ Quà Nhỏ]].
 # 13 Dec 2024
 - Thêm mới: [[Boss Akainu]] và [[Shop Akainu]], chỉnh sửa item [[Tín Vật Hải Tặc]].
 # 12 Dec 2024
