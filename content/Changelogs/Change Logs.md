@@ -5,6 +5,12 @@ tags:
   - duongnd
   - system
 ---
+# 17 Dec 2024
+- Thêm mới: [[Ưu Đãi - Gói Chiêu Mộ Hạn Giờ]].
+- Thêm mới: [[Ưu Đãi - Gói Tháng]].
+- Thêm mới: [[Ưu Đãi - Gói Siêu Khuyến Mãi]].
+- Thêm mới: [[Ưu Đãi - Gói Kim Cương]].
+- Thêm mới: [[Ưu Đãi - Nạp Đơn]].
 # 13 Dec 2024
 - Thêm mới: [[Boss Akainu]] và [[Shop Akainu]], chỉnh sửa item [[Tín Vật Hải Tặc]].
 # 12 Dec 2024
