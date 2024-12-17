@@ -5,6 +5,9 @@ tags:
   - duongnd
   - system
 ---
+# 18 Dec 2024
+- Thêm mới: [[Ưu Đãi - Quỹ Trưởng Thành VIP1]].
+- Thêm mới: [[Ưu Đãi - Quỹ Trưởng Thành VIP2]].
 # 17 Dec 2024
 - Thêm mới: [[Ưu Đãi - Gói Chiêu Mộ Hạn Giờ]].
 - Thêm mới: [[Ưu Đãi - Gói Tháng]].
