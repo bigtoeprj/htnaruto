@@ -5,6 +5,12 @@ tags:
   - duongnd
   - system
 ---
+# 20 Dec 2024
+- Thêm mới: [[Gói Ưu Đãi Chiêu Mộ Vua Hải Tặc]].
+- Thêm mới: [[Gói Ưu Đãi Đua Top Xu Vòng Quay]].
+- Thêm mới: [[Gói Ngày Siêu Ưu Đãi (x2 VIP Exp)]].
+- Thêm mới: [[Sự Kiện Tháng - Luyện Tập]].
+- Thêm mới: [[Tích Lũy Vip EXP]].
 # 19 Dec 2024
 - Cập nhật danh sách Trang Bị.
 # 18 Dec 2024
