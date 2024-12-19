@@ -9,6 +9,7 @@ tags:
 | 40  | ![[40.png]] | [[Bảo Vật]] hệ [[Sinh Khí]]. |
 
 **Hình trong game**
+
 ![[20241129163128.png]]
 
 | Tính Năng            | Tìm thấy trong |

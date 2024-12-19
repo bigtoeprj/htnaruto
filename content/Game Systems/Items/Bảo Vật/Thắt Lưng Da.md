@@ -9,6 +9,7 @@ tags:
 | 35  | ![[35.png]] | [[Bảo Vật]] hệ [[Nhanh Nhẹn]]. |
 
 **Hình trong game**
+
 ![[20241129163200.png]]
 
 | Tính Năng            | Tìm thấy trong |

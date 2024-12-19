@@ -9,6 +9,7 @@ tags:
 | 32  | ![[32.png]] | [[Bảo Vật]] hệ [[Bền Bỉ]]. |
 
 **Hình trong game**
+
 ![[20241129163141.png]]
 
 | Tính Năng            | Tìm thấy trong |
