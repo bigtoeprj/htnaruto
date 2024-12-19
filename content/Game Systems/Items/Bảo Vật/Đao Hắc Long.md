@@ -6,7 +6,7 @@ tags:
 
 | ID  | Hình Ảnh     | Tính năng sử dụng         |
 | --- | ------------ | ------------------------- |
-| 58  | ![[58a.png]] | [[Bảo Vật]] hệ [[Bền Bỉ]] |
+| 58  | ![[58c.png]] | [[Bảo Vật]] hệ [[Bền Bỉ]] |
 
 **Hình trong game**
 

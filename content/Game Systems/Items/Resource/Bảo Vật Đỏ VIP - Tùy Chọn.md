@@ -3,9 +3,9 @@ tags:
   - item
 ---
 
-| ID  | Hình Ảnh | Tính năng sử dụng                                        |
-| --- | -------- | -------------------------------------------------------- |
-|     |          | Drop trong [[Boss Akainu]] và dùng trong [[Shop Akainu]] |
+| ID  | Hình Ảnh     | Tính năng sử dụng |
+| --- | ------------ | ----------------- |
+| 58  | ![[58c.png]] | -                 |
 
 **Hình trong game**
 
