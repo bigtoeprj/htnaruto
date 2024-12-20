@@ -22,6 +22,8 @@ tags:
 | 12  | [[Lịch Sử Đơn Đấu]]                                              |
 | 13  | [[Đội hình thủ]]                                                 |
 | 14  | [[Info Chiến Trường - Đơn Đấu]]                                  |
+| 15  | [[Màn kết quả]]                                                  |
+|     |                                                                  |
 
 # Quy tắc chiến đấu
 ## Lượt đánh
@@ -45,3 +47,15 @@ tags:
 - Mỗi lần [Làm mới] (không mất phí) sẽ random ra 3 user bất kỳ - không có quy tắc về điểm, chỉ có random.
 ![[20241113161312.png]]
 - Người chơi sử dụng 1 [[Giấy Thách Đấu]] để tiến hành khiêu chiến.
+
+# Win
+- Khi win hiện kết quả![[20241205140244.png]]
+
+# Lose
+- Khi thua hiện kết quả![[20241205140505.png]]
+
+Giống phần [[Kết Quả Trận Đấu]]
+# Thông tin 2 bên
+- Avatar + Tên 2 bên![[20241205141446.png]]
+- Điểm số: trừ khi lose và cộng khi win
+- Tổng sát thương: là tổng sát thương bên mình gây ra
