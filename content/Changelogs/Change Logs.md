@@ -5,8 +5,33 @@ tags:
   - duongnd
   - system
 ---
+# 20 Dec 2024
+- Thêm mới: [[Gói Ưu Đãi Chiêu Mộ Vua Hải Tặc]].
+- Thêm mới: [[Gói Ưu Đãi Đua Top Xu Vòng Quay]].
+- Thêm mới: [[Gói Ngày Siêu Ưu Đãi (x2 VIP Exp)]].
+- Thêm mới: [[Sự Kiện Tháng - Luyện Tập]].
+- Thêm mới: [[Tích Lũy Vip EXP]].
+# 19 Dec 2024
+- Cập nhật danh sách Trang Bị.
+# 18 Dec 2024
+- Thêm mới: [[Ưu Đãi - Quỹ Trưởng Thành VIP1]].
+- Thêm mới: [[Ưu Đãi - Quỹ Trưởng Thành VIP2]].
+- Cập nhật danh sách Trang bị.
+# 17 Dec 2024
+- Thêm mới: [[Ưu Đãi - Gói Chiêu Mộ Hạn Giờ]].
+- Thêm mới: [[Ưu Đãi - Gói Tháng]].
+- Thêm mới: [[Ưu Đãi - Gói Siêu Khuyến Mãi]].
+- Thêm mới: [[Ưu Đãi - Gói Kim Cương]].
+- Thêm mới: [[Ưu Đãi - Nạp Đơn]].
+- Thêm mới: [[Ưu Đãi - Thẻ Quà Lớn]].
+- Thêm mới: [[Ưu Đãi - Thẻ Quà Nhỏ]].
+# 13 Dec 2024
+- Thêm mới: [[Boss Akainu]] và [[Shop Akainu]], chỉnh sửa item [[Tín Vật Hải Tặc]].
 # 12 Dec 2024
 - Thêm mới: [[Marineford Tổng bộ (Ủy thác)]].
+- Thêm mới: [[Shop Huy Hiệu Rank S]].
+- Thêm mới: [[Kho Báu Huyền Thoại]].
+- Thêm mới: [[Event - Tích Lũy VIP EXP]].
 # 11 Dec 2024
 - Thêm mới: [[Shop Đại Hải Tặc]].
 - Thêm mới: [[Socola]], [[Cửa Hàng Socola]].
