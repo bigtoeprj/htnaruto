@@ -15,4 +15,4 @@ Mỗi trận đấu có iCon ở đằng trc bên tay trái để báo hiệu k�
 | Kiếm Xanh lam (Vỡ)    | Khiêu chiến thất bại    |
 | Khiên Xanh lam (lành) | Phòng thủ thành công    |
 | Khiên xanh lam (vỡ)   | Phòng thủ thất bại      |
-![[Pasted image 20241223112939.png]]
+![[20241223112939.png]]
