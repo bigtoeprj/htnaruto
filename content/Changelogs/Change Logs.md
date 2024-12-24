@@ -5,6 +5,9 @@ tags:
   - duongnd
   - system
 ---
+# 24 Dec 2024
+- Thêm mới: [[Event - Marineford]]
+
 # 23 Dec 2024
 - Add thêm ảnh vào [[Chiến Trường - Đơn Đấu]], [[Lịch Sử Đơn Đấu]], [[Màn kết quả]].
 - Sửa lỗi [[Tiệm Đồ]] không hiển thị trong docs.
