@@ -5,6 +5,10 @@ tags:
   - duongnd
   - system
 ---
+# 23 Dec 2024
+- Add thêm ảnh vào [[Chiến Trường - Đơn Đấu]], [[Lịch Sử Đơn Đấu]], [[Màn kết quả]].
+- Sửa lỗi [[Tiệm Đồ]] không hiển thị trong docs.
+- Thêm mới: [[Đảo trời (Khai thác)]].
 # 20 Dec 2024
 - Thêm mới: [[Gói Ưu Đãi Chiêu Mộ Vua Hải Tặc]].
 - Thêm mới: [[Gói Ưu Đãi Đua Top Xu Vòng Quay]].
