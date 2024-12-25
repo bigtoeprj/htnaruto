@@ -5,8 +5,11 @@ tags:
   - duongnd
   - system
 ---
+# 25 Dec 2024
+- Thêm mới: [[Bạn Bè]].
 # 24 Dec 2024
-- Thêm mới: [[Event - Marineford]]
+- Thêm mới: [[Event - Marineford]].
+- Thêm mới: [[Hạm Đội]].
 
 # 23 Dec 2024
 - Add thêm ảnh vào [[Chiến Trường - Đơn Đấu]], [[Lịch Sử Đơn Đấu]], [[Màn kết quả]].
