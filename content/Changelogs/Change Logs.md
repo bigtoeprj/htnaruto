@@ -11,6 +11,7 @@ tags:
 - Thêm mới: [[Event - Kho Báu Máy Chủ Mới]].
 - Add thời điểm unlock Trinh Thám, Vòng Quay: [[Feature Unlock]].
 - Thêm mới: [[EW - Gói Cấp Độ 30]].
+- Cập nhật hình ảnh [[Hạm Đội]].
 # 25 Dec 2024
 - Thêm mới: [[Bạn Bè]].
 # 24 Dec 2024
