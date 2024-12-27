@@ -308,7 +308,7 @@ Khi người chơi click vào hiển thị ra bxh sát thương lên boss tinh a
 ## [3] Kỹ Năng Bang
 Lối vào: [[Hạm Đội]]>Kỹ Năng
 
-![[Pasted image 20241227150557.png]]
+![[20241227150557.png]]
 
 | ID  | Detail                                   |
 | --- | ---------------------------------------- |
@@ -334,13 +334,13 @@ Nếu Beli hoặc huy hiệu hạm đội không đủ để nâng cấp sẽ hi
 Khi ấn vào nâng cấp khi không đủ beli hoặc huy hiệu hạm đội sẽ hiển thị text "không đủ tài nguyên"
 Khi ấn vào Trợ giúp (12) hẽ hiển thị [[Pop-up]] trợ giúp
 
-![[Pasted image 20241227154921.png]]
+![[20241227154921.png]]
 
 
 ### [4] Bang Quest
 Lối Vào: [[Hạm Đội]]>Bang Quest
 
-![[Pasted image 20241227161852.png]]
+![[20241227161852.png]]
 
 | ID  | Detail                            |
 | --- | --------------------------------- |
@@ -361,7 +361,7 @@ Người chơi dùng [[Kim Cương]] để nâng phẩm của nhiệm vụ, ph�
 Người chơi nhấn "Bắt đầu" (4) để bắt đầu "làm" nhiệm vụ. Khi hết thời gian người chơi sẽ nhận được thưởng của nhiệm vụ đó
 
 ### [8] Cống Hiến
-![[Pasted image 20241227172509.png]]
+![[20241227172509.png]]
 
 | ID  | Detail                                 |
 | --- | -------------------------------------- |
@@ -376,6 +376,6 @@ Không giới hạn số lần cống hiến trong ngày
 
 
 ### [9] BXH cống hiến của đội
-![[Pasted image 20241227173221.png]]
+![[20241227173221.png]]
 
 Thông tin các thành viên kèm cống hiến được sắp xếp từ cao xuống thấp
