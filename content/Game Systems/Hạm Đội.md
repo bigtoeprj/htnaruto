@@ -72,7 +72,7 @@ Sau đó người chơi ấn vào (3) để tạo hạm đội nếu đủ kim c
 | 5   | Bang chiến                           |
 | 6   | Shop Điểm Bang                       |
 | 7   | Kim cương                            |
-| 8   | Điểm bang                            |
+| 8   | [[Huy Hiệu Hạm Đội]]                 |
 | 9   | back về giao diện [[Phụ Bản System]] |
 
 ## [1] Hội Trường
@@ -303,3 +303,79 @@ Khi người chơi click vào hiển thị ra bxh sát thương lên boss tinh a
 | 1   | Tổng sát thương của cả bang và % thưởng thêm |
 | 2   | Bxh sát thương                               |
 | 3   | Thoát                                        |
+
+
+## [3] Kỹ Năng Bang
+Lối vào: [[Hạm Đội]]>Kỹ Năng
+
+![[Pasted image 20241227150557.png]]
+
+| ID  | Detail                                   |
+| --- | ---------------------------------------- |
+| 1   | [[Beli]] hiện có                         |
+| 2   | [[Huy Hiệu Hạm Đội]] hiện có             |
+| 3   | Lớp nhân vật đang hiển thị để nâng cấp   |
+| 4   | Hình ảnh các nâng cấp trong lớp nhân vật |
+| 5   | Loại nâng cấp                            |
+| 6   | Reset nâng cấp                           |
+| 7   | Thông tin loại nâng cấp                  |
+| 8   | Chỉ số nâng cấp của loại nâng cấp        |
+| 9   | [[Beli]] ccần để nâng cấp                |
+| 10  | [[Huy Hiệu Hạm Đội]] cần để nâng cấp     |
+| 11  | Button nâng cấp                          |
+| 12  | Trợ giúp                                 |
+| 13  | Thoát                                    |
+| 14  | Cấp độ chung của toàn bộ loại nâng cấp   |
+Người chơi click vào lớp nhân vật muốn nâng cấp
+Có 8 nâng cấp ở 1 lớp.
+Khi nâng đủ 10 level ở (5) Loại nâng cấp trước sẽ mở nâng cấp sau.
+Khi nâng đủ toàn bộ level của toàn bộ loại nâng cấp sẽ tăng 1 cấp độ chung của toàn bộ nâng cấp (14)
+Nếu Beli hoặc huy hiệu hạm đội không đủ để nâng cấp sẽ hiển thị chữ  màu đỏ (9 và 10)
+Khi ấn vào nâng cấp khi không đủ beli hoặc huy hiệu hạm đội sẽ hiển thị text "không đủ tài nguyên"
+Khi ấn vào Trợ giúp (12) hẽ hiển thị [[Pop-up]] trợ giúp
+
+![[Pasted image 20241227154921.png]]
+
+
+### [4] Bang Quest
+Lối Vào: [[Hạm Đội]]>Bang Quest
+
+![[Pasted image 20241227161852.png]]
+
+| ID  | Detail                            |
+| --- | --------------------------------- |
+| 1   | Thời gian làm mới bang quest      |
+| 2   | Thông tin nhiệm vụ                |
+| 3   | Thưởng của nhiệm vụ               |
+| 4   | Button bắt đầu thực hiện nhiệm vụ |
+| 5   | Nâng cấp nhiệm vụ lên bậc cao hơn |
+| 6   | Thời gian để hoàn thành nhiệm vụ  |
+| 7   | Bảng nhiệm vụ                     |
+| 8   | Cống hiến                         |
+| 9   | Bxh cống hiến của hạm đội         |
+#### Mô Tả tính năng
+Thời gian làm mới bang quest là 12h sau khi ấn nhận 1 nhiệm vụ
+Sau khi làm mưới sẽ đưa ra ở (2) đúng số lượng nhiệm vụ người chơi có thể nhận, bắt đầu từ 1 
+Nhiệm vụ có 6 bậc. Bậc càng cao thời gian cần để hoàn thành càng lớn và thưởng càng nhiều.
+Người chơi dùng [[Kim Cương]] để nâng phẩm của nhiệm vụ, phẩm càng cao, kim cương cần càng lớn
+Người chơi nhấn "Bắt đầu" (4) để bắt đầu "làm" nhiệm vụ. Khi hết thời gian người chơi sẽ nhận được thưởng của nhiệm vụ đó
+
+### [8] Cống Hiến
+![[Pasted image 20241227172509.png]]
+
+| ID  | Detail                                 |
+| --- | -------------------------------------- |
+| 1   | [[Beli]] hiện có                       |
+| 2   | Level cống hiến hiện tại kèm thông tin |
+| 3   | Level tiếp theo                        |
+| 4   | Thanh cống hiến (exp level cống hiến)  |
+| 5   | Button Đóng góp nhỏ 100K [[Beli]]      |
+| 6   | Button Đóng góp lớn 1M [[Beli]]        |
+Người chơi trong hạm đội dùng Beli để quyên góp. Khi đủ số beli, cống ghiến sẽ tăng level. Mỗi level sẽ có bonus phần thưởng và số nhiệm vụ tối đa người chơi có thể nhận
+Không giới hạn số lần cống hiến trong ngày
+
+
+### [9] BXH cống hiến của đội
+![[Pasted image 20241227173221.png]]
+
+Thông tin các thành viên kèm cống hiến được sắp xếp từ cao xuống thấp
