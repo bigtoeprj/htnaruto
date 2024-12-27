@@ -7,6 +7,7 @@ tags:
 ---
 # 26 Dec 2024
 - Thêm mới: [[Chat]].
+- Thêm mới: [[Shop Hạm Đội]], [[Shop Huyết Tế]].
 # 25 Dec 2024
 - Thêm mới: [[Bạn Bè]].
 # 24 Dec 2024
