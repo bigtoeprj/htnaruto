@@ -5,6 +5,8 @@ tags:
   - duongnd
   - system
 ---
+# 26 Dec 2024
+- Thêm mới: [[Chat]].
 # 25 Dec 2024
 - Thêm mới: [[Bạn Bè]].
 # 24 Dec 2024
