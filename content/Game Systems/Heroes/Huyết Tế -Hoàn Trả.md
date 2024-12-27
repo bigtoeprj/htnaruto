@@ -118,3 +118,19 @@ Người chơi chọn tướng cần hoàn trả sau đó ấn Hoàn trả để
 Người chơi click vào trợ giúp để xem thông tin hoàn trả. Khi  click vào trợ giúp sẽ hiển thị ra popup trợ giúp
 ![[20241204160445.png]]
 
+Giá hoàn trả
+
+| Sao | Kim cương | Đá hoàn trả |
+| --- | --------- | ----------- |
+| 1-5 | 50        | 0           |
+| 6   | 50        | 1           |
+| 7   | 50        | 2           |
+| 8   | 50        | 3           |
+| 9   | 50        | 4           |
+| 10  | 100       | 5           |
+| 11  | 150       | 6           |
+| 12  | 200       | 7           |
+| 13  | 250       | 8           |
+| 14  | 300       | 9           |
+| 15  | 500       | 10          |
+

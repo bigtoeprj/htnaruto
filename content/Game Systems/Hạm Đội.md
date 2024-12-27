@@ -41,11 +41,11 @@ Nếu không muốn vào clan sẵn có, người chơi có thể tạo clan m�
 | 3   | Button lập đội kèm giá để lập đội |
 | 4   | Thoát                             |
 
-## [1]Tên hạm đội muốn lập
+### [1]Tên hạm đội muốn lập
 
 Người chơi click vào ô nhập tên xuất hiện 
 
-## [2]Chọn cờ hiệu của đội
+### [2]Chọn cờ hiệu của đội
 
 ![[20241224102303.png]]
 
@@ -75,7 +75,109 @@ Sau đó người chơi ấn vào (3) để tạo hạm đội nếu đủ kim c
 | 8   | Điểm bang                            |
 | 9   | back về giao diện [[Phụ Bản System]] |
 
-## [2] Khi người chơi click vào Boss Bang
+## [1] Hội Trường
+
+![[Pasted image 20241225092315.png]]
+
+| ID  | Detail                        |
+| --- | ----------------------------- |
+| 1   | Trợ Giúp                      |
+| 2   | Quản lý hạm đội               |
+| 3   | Cài đặt hạm đội               |
+| 4   | Thông tin hạm đội             |
+| 5   | Thanh kinh nghiệm hạm đội     |
+| 6   | Text hạm đội                  |
+| 7   | Điểm danh                     |
+| 8   | Rời hạm đội                   |
+| 9   | Thông tin người trong hạm đội |
+| 10  | Quản lí hạm đội               |
+| 11  | Lịch sử hoạt động của hạm đội |
+| 12  | Thoát                         |
+
+### [1] Trợ Giúp
+Click vào trợ giúp sẽ ra [[Pop-up]] trợ giúp
+![[Pasted image 20241225095729.png]]
+
+### [2] Quản lý bang hội
+
+![[Pasted image 20241225095842.png]]
+
+| ID  | Detail                                     |
+| --- | ------------------------------------------ |
+| 1   | Thông tin chức vụ người chơi trong hạm đội |
+| 2   | Button khai trừ ra khỏi bang               |
+Chỉ có hội trưởng và hội phó mới có thể khai trừ người chơi khác ra khỏi hạm đội.
+Thuyền trưởng có thể khai trừ mọi chức vụ (bao gồm cả thuyền phó)
+Thuyền phó có thể khai trừ thuyền viên ra khỏi hạm đội
+
+### [3] Cài đặt hạm đội
+![[Pasted image 20241225100849.png]]
+
+| ID  | Detail             |
+| --- | ------------------ |
+| 1   | Tên hạm đội        |
+| 2   | Cờ hiệu            |
+| 3   | Thông tin          |
+| 4   | Button lưu sửa đôi |
+| 5   | Thoát              |
+Hội trưởng và hội phó có thể sửa đổi "thông tin" (3); khi ấn vào phần trắng sẽ hiển thị khung trắng để điền text
+![[Pasted image 20241225101234.png]]
+Sau khi sửa đổi ấn (4) button để lưu sửa đổi 
+Tên và cờ không thể thay đổi
+
+### [7] Điểm danh
+Hằng ngày, mỗi người trong hạm đội có thể ấn điểm danh 1 lần
+Người chơi điểm danh sẽ hiện ra [[Pop-up thưởng]] bao gồm
+
+| EXP | Xu hạm đội |
+| :-: | :--------: |
+| 31  |     32     |
+### [8] Rời hạm đội
+Người chơi ấn"rời đội" để thoát khỏi hạm đội hiện tại
+Có [[Pop-up]] hỏi chắc chắn hành động này hay không
+![[Pasted image 20241225103743.png]]
+
+### [9] Thông tin người trong hạm đội
+Hiển thị thông tin các người chơi trong hạm đội bao gòm
+Tên, cấp, chức vụ, thời gian online/offline
+
+### [10] Quản lý hạm đội
+Khi người chơi click vào quản lý hạm đội sẽ hiển thị
+![[Pasted image 20241225105008.png]]
+
+| ID  | Detail        |
+| --- | ------------- |
+| 1   | Duyệt đăng ký |
+| 2   | Tuyển mộ      |
+| 3   | Gửi thư       |
+| 4   | Thành viên    |
+Thuyền viên không phải thuyền phó và thuyền trưởng chỉ hiển thị "Thành viên"(4)
+#### [1] Duyệt đăng ký
+Thuyền trưởng và thuyền phó có thể click vào đây để xem danh sách các người chơi muốn xin vào hạm đội
+![[Pasted image 20241225115044.png]]
+#### [2] Tuyển mộ
+Thuyền trưởng và thuyền phó điền text thông tin chào mời thành viên mới
+Sau khi hoàn thành sex hiển thị trên kênh chat tuyển mộ
+![[Pasted image 20241227141345.png]]
+
+| ID  | Detail                                            |
+| --- | ------------------------------------------------- |
+| 1   | Khu hiển thij và click vào để điền text  tuyển mộ |
+| 2   | thoát                                             |
+| 3   | Gửi tuyển mộ                                      |
+#### Thành viên
+![[Pasted image 20241227142059.png]]
+Với những thuyền viên thường chỉ hiển thị thông tin user và chức vụ
+Với thuyền phó và thuyền trưởng có thêm quyền khai trừ bằng cách ấn vào nút "khai trừ"
+Khi click vào khai trừ sẽ hiển thị [[Pop-up]] hỏi lại việc "khai trừ"
+
+
+#### Gửi thư
+![[Pasted image 20241227141537.png]]
+
+Thuyền trưởng và thuyền phó điền text vào khu nội dung.
+Ấn gửi sẽ có thư gửi đến các thành viên trong bang
+## [2] Boss Bang
 ![[20241224140255.png]]
 
 | ID  | Detail                       |
@@ -90,8 +192,6 @@ Sau đó người chơi ấn vào (3) để tạo hạm đội nếu đủ kim c
 ### [1] Trợ giúp
 Click vào trợ giúp sẽ ra [[Pop-up]] trợ giúp
 ![[20241224155457.png]]
-
-
 
 ### [2] Hình ảnh boss
 Boss đã bị tiêu diệt sẽ có lớp xám bên trên và dấu X đỏ
