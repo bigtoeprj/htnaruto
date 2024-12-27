@@ -174,9 +174,13 @@ Khi click vào khai trừ sẽ hiển thị [[Pop-up]] hỏi lại việc "khai 
 
 #### Gửi thư
 ![[Pasted image 20241227141537.png]]
-
 Thuyền trưởng và thuyền phó điền text vào khu nội dung.
 Ấn gửi sẽ có thư gửi đến các thành viên trong bang
+
+
+### [11] Hoat động
+Khi click vào "hoạt động" sẽ show [[Pop-up]] Lịch sử các hoạt động của hạm đội
+![[Pasted image 20241227143619.png]]
 ## [2] Boss Bang
 ![[20241224140255.png]]
 
