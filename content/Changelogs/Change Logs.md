@@ -9,7 +9,8 @@ tags:
 - Thêm mới: [[Chat]].
 - Thêm mới: [[Shop Hạm Đội]], [[Shop Huyết Tế]].
 - Thêm mới: [[Event - Kho Báu Máy Chủ Mới]].
-- Add thời điểm unlock Trinh Thám, Vòng Quay: [[Feature Unlock]]
+- Add thời điểm unlock Trinh Thám, Vòng Quay: [[Feature Unlock]].
+- Thêm mới: [[EW - Gói Cấp Độ 30]].
 # 25 Dec 2024
 - Thêm mới: [[Bạn Bè]].
 # 24 Dec 2024
