@@ -8,6 +8,8 @@ tags:
 # 31 Dec 2024
 - Thêm mới: [[EW - Nạp Liên Tiếp (500 Vip Exp)]].
 - Cập nhật: [[Shop Đại Hải Tặc]].
+- Thêm mới: [[Currency Nạp Kim cương]].
+- Thêm mới: [[Hệ thống VIP]].
 # 30 Dec 2024
 - Thêm mới: [[EW - Gói Cấp Độ 40]], [[EW - Gói VIP 3]], [[EW - Gói Cấp Độ 55]].
 - Cập nhật danh sách Item.
