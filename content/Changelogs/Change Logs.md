@@ -10,6 +10,7 @@ tags:
 - Cập nhật danh sách Item.
 - Cập nhật [[Huyết Tế -Hoàn Trả]].
 - Cập nhật upgrade nghề cho [[Hạm Đội]]. 
+- Thêm mới: [[EW - Gói Chiêu Mộ SS Hiếm]], [[EW - Gói Chiêu Mộ SS Thường]], [[EW - Gói Tăng Cường 6 Sao]], [[EW - Gói Tăng Cường 7 Sao]].
 # 26 Dec 2024
 - Thêm mới: [[Chat]].
 - Thêm mới: [[Shop Hạm Đội]], [[Shop Huyết Tế]].
