@@ -96,8 +96,8 @@ Lối vào: Giao diện chính>Huyết tế>Tướng Hoàn Trả
 
 **Quy Tắc Hoàn Trả**
 
-1. Hoàn trả chỉ áp dụng cho thuyền viên 5 sao trở lên và đã nâng ít nhất 1 level
-2. Hoàn trả lại 100% nguyên liệu nâng trang bị đặc thù, đá hộ mệnh, cấp độ, phẩm thuyền viên.
+1. Hoàn trả chỉ áp dụng cho thuyền viên đã nâng ít nhất 1 level
+2. Hoàn trả lại 80% nguyên liệu nâng trang bị đặc thù, đá hộ mệnh, cấp độ, phẩm thuyền viên.
 3. Không trả lại đá cường hoá nâng sao, chỉ được trả lại số nguyên liệu nâng cấp tướng như sau :
 6 sao : Lỗ 1 tướng nguyên liệu 5 sao
 7 sao : Lỗ 2 tướng nguyên liệu 5 sao
