@@ -5,6 +5,11 @@ tags:
   - duongnd
   - system
 ---
+# 30 Dec 2024
+- Thêm mới: [[EW - Gói Cấp Độ 40]], [[EW - Gói VIP 3]], [[EW - Gói Cấp Độ 55]].
+- Cập nhật danh sách Item.
+- Cập nhật [[Huyết Tế -Hoàn Trả]].
+- Cập nhật upgrade nghề cho [[Hạm Đội]]. 
 # 26 Dec 2024
 - Thêm mới: [[Chat]].
 - Thêm mới: [[Shop Hạm Đội]], [[Shop Huyết Tế]].

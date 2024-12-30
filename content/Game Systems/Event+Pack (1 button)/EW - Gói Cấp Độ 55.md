@@ -8,7 +8,7 @@ Nằm trong [[Event Pack System]], tab Sự Kiện Tuần. Đây là một sự 
 Người dùng tiền mặt để mua gói và nhận quà lại qua [[Thư]].
 Sự kiện này giới hạn 18 tiếng.
 
-![[20241230095033.png]]
+![[20241230101143.png]]
 
 | ID  | Detail                                    |
 | --- | ----------------------------------------- |
@@ -24,7 +24,7 @@ Sự kiện này giới hạn 18 tiếng.
 | 10  | Nút mua hàng                              |
 | 11  | Giới hạn mua hàng                         |
 
-Phần thưởng tự động gửi về hòm thư - Tiêu đề: Gói Cấp Độ. Nội dung bên trong: "Phần thưởng Gói Cấp Độ 30".
+Phần thưởng tự động gửi về hòm thư - Tiêu đề: Gói Cấp Độ. Nội dung bên trong: "Phần thưởng Gói Cấp Độ 55".
 
 ![[20241118114228.png]]
 
