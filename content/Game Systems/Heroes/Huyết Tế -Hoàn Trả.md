@@ -46,7 +46,7 @@ Tướng 5 sao cần người chơi đạt cấp 70 mới có thể huyết tế
 Trừ các tướng đang trong đội hình vượt ải hoặc đấu trường, mọi tướng đều có thể huyết tế
 
 
-Khi huyết tế các tướng đã nâng cấp, sẽ hoàn trả cả Beli và đá EXP đã nâng cấp
+Khi huyết tế các tướng đã nâng cấp, sẽ hoàn trả 80% Beli và đá EXP đã nâng cấp
 
 Tài nguyên nhận được sau khi huyết tế như sau:
 
@@ -97,7 +97,7 @@ Lối vào: Giao diện chính>Huyết tế>Tướng Hoàn Trả
 **Quy Tắc Hoàn Trả**
 
 1. Hoàn trả chỉ áp dụng cho thuyền viên đã nâng ít nhất 1 level
-2. Hoàn trả lại 80% nguyên liệu nâng trang bị đặc thù, đá hộ mệnh, cấp độ, phẩm thuyền viên.
+2. Hoàn trả lại 100% nguyên liệu nâng trang bị đặc thù, đá hộ mệnh, cấp độ, phẩm thuyền viên.
 3. Không trả lại đá cường hoá nâng sao, chỉ được trả lại số nguyên liệu nâng cấp tướng như sau :
 6 sao : Lỗ 1 tướng nguyên liệu 5 sao
 7 sao : Lỗ 2 tướng nguyên liệu 5 sao
