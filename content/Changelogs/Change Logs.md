@@ -10,6 +10,7 @@ tags:
 - Thêm mới: [[EW - Gói Đậu Thần Đơn 150]].
 - Thêm mới: [[Haki]].
 - Thêm mới: [[Dấu Ấn Germa]].
+- Cập nhật [[Quest]].
 # 31 Dec 2024
 - Thêm mới: [[EW - Nạp Liên Tiếp (500 Vip Exp)]], [[EW - Gói Cấp Độ 60]].
 - Cập nhật: [[Shop Đại Hải Tặc]].
