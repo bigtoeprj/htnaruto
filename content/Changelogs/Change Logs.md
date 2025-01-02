@@ -5,6 +5,8 @@ tags:
   - duongnd
   - system
 ---
+# 2 Jan 2024
+- Cập nhật Item bổ sung trong [[Trang bị Đặc Thù]].
 # 31 Dec 2024
 - Thêm mới: [[EW - Nạp Liên Tiếp (500 Vip Exp)]], [[EW - Gói Cấp Độ 60]].
 - Cập nhật: [[Shop Đại Hải Tặc]].
