@@ -5,9 +5,31 @@ tags:
   - duongnd
   - system
 ---
+# 2 Jan 2024
+- Cập nhật Item bổ sung trong [[Trang bị Đặc Thù]].
+- Thêm mới: [[EW - Gói Đậu Thần Đơn 150]].
+- Thêm mới: [[Haki]].
+- Thêm mới: [[Dấu Ấn Germa]].
+- Cập nhật [[Quest]].
+# 31 Dec 2024
+- Thêm mới: [[EW - Nạp Liên Tiếp (500 Vip Exp)]], [[EW - Gói Cấp Độ 60]].
+- Cập nhật: [[Shop Đại Hải Tặc]].
+- Thêm mới: [[Currency Nạp Kim cương]].
+- Thêm mới: [[Hệ thống VIP]].
+- Cập nhật [[Quest]].
+# 30 Dec 2024
+- Thêm mới: [[EW - Gói Cấp Độ 40]], [[EW - Gói VIP 3]], [[EW - Gói Cấp Độ 55]].
+- Cập nhật danh sách Item.
+- Cập nhật [[Huyết Tế -Hoàn Trả]].
+- Cập nhật upgrade nghề cho [[Hạm Đội]]. 
+- Thêm mới: [[EW - Gói Chiêu Mộ SS Hiếm]], [[EW - Gói Chiêu Mộ SS Thường]], [[EW - Gói Tăng Cường 6 Sao]], [[EW - Gói Tăng Cường 7 Sao]].
 # 26 Dec 2024
 - Thêm mới: [[Chat]].
 - Thêm mới: [[Shop Hạm Đội]], [[Shop Huyết Tế]].
+- Thêm mới: [[Event - Kho Báu Máy Chủ Mới]].
+- Add thời điểm unlock Trinh Thám, Vòng Quay: [[Feature Unlock]].
+- Thêm mới: [[EW - Gói Cấp Độ 30]].
+- Cập nhật hình ảnh [[Hạm Đội]].
 # 25 Dec 2024
 - Thêm mới: [[Bạn Bè]].
 # 24 Dec 2024

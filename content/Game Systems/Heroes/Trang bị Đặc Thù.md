@@ -17,12 +17,12 @@ Khi tướng đạt cấp 140, người chơi có thể click vào 2 ô vai trò
 
 ![[20241209141714.png]]
 
-| ID  | Giải nghĩa                                        |
-| --- | ------------------------------------------------- |
-| 1   | Trang bị đặc thù "theo vai trò"                   |
-| 2   | Trang bị đặc thù "theo nhóm hạng"                 |
-| 3   | Chỉ số đem lại từ trạng bị đặc thù theo vai trò   |
-| 4   | Chỉ số đem lại từ trạng bị đặc thù theo nhóm hạng |
+| ID  | Giải nghĩa                                                                                                                                  |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Trang bị đặc thù "theo vai trò": [[Huy Hiệu Đấu Sĩ]], [[Huy Hiệu Xạ Thủ]], [[Huy Hiệu Hỗ Trợ]], [[Huy Hiệu Kiếm Sĩ]], [[Huy Hiệu Chỉ Huy]]. |
+| 2   | Trang bị đặc thù "theo nhóm hạng": [[Huy Hiệu Rank S]], [[Huy Hiệu Rank SS]].                                                               |
+| 3   | Chỉ số đem lại từ trạng bị đặc thù theo vai trò                                                                                             |
+| 4   | Chỉ số đem lại từ trạng bị đặc thù theo nhóm hạng                                                                                           |
 
 # Khi click vào (1) Trang bị đặc thù "theo vai trò"
 ## Cường Hóa
@@ -51,20 +51,20 @@ Click sang "phẩm đồ"
 
 ![[20241209144549.png]]
 
-| ID  | Giải nghĩa                                          |
-| --- | --------------------------------------------------- |
-| 1   | Trang bị đặc thù "theo vai trò" và chỉ số đem lại   |
-| 2   | Trang bị đặc thù "theo nhóm hạng" và chỉ số đem lại |
-| 3   | Chỉ số trước và sau khi nâng cấp phẩm đồ            |
-| 4   | Huy hiệu (theo vai trò) cần để nâng cấp             |
-| 5   | Sách (theo hệ) cần để nâng cấp                      |
-| 6   | [[Beli]] cần để nâng cấp                            |
-| 7   | Button nâng cấp                                     |
-| 8   | Cường hóa (ấn vào xem ở dưới)                       |
-| 9   | Phẩm đồ (ấn vào xem ở dưới)                         |
-| 10  | Thoát                                               |
-| 11  | [[Beli]] hiện tại                                   |
-| 12  | [[Đá Nâng Đồ]] hiện tại                             |
+| ID  | Giải nghĩa                                                                                                                                           |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Trang bị đặc thù "theo vai trò" và chỉ số đem lại                                                                                                    |
+| 2   | Trang bị đặc thù "theo nhóm hạng" và chỉ số đem lại                                                                                                  |
+| 3   | Chỉ số trước và sau khi nâng cấp phẩm đồ                                                                                                             |
+| 4   | Huy hiệu (theo vai trò) cần để nâng cấp                                                                                                              |
+| 5   | Sách (theo hệ) cần để nâng cấp: [[Sách Bền Bỉ]], [[Sách Minh Mẫn]], [[Sách Chính Xác]], [[Sách Thông Minh]], [[Sách Sinh Khí]], [[Sách Nhanh Nhẹn]]. |
+| 6   | [[Beli]] cần để nâng cấp                                                                                                                             |
+| 7   | Button nâng cấp                                                                                                                                      |
+| 8   | Cường hóa (ấn vào xem ở dưới)                                                                                                                        |
+| 9   | Phẩm đồ (ấn vào xem ở dưới)                                                                                                                          |
+| 10  | Thoát                                                                                                                                                |
+| 11  | [[Beli]] hiện tại                                                                                                                                    |
+| 12  | [[Đá Nâng Đồ]] hiện tại                                                                                                                              |
 
 # Khi click vào (2) Trang bị đặc thù "theo Nhóm hạng"
 

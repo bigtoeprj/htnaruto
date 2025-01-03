@@ -5,7 +5,7 @@ tags:
   - readyUI
 ---
 Nằm trong [[Event Pack System]], tab Ưu Đãi. Đây là một sự kiện con trong tab này.
-Người chơi nạp đủ số [[Kim Cương]] thông qua [[Cửa Hàng Kim Cương]] sẽ nhận lại quà qua [[Thư]].
+Người chơi nạp đủ số [[Kim Cương]] thông qua [[Currency Nạp Kim cương]] sẽ nhận lại quà qua [[Thư]].
 Sự kiện này chạy trong **3 ngày**.
 
 ![[20241216114456.png]]
@@ -23,6 +23,6 @@ Sự kiện này chạy trong **3 ngày**.
 | 9   | Nội dung nhiệm vụ.                                     |
 | 10  | Danh sách phần thưởng, có thể scroll ngang nếu quá dài |
 | 11  | Giới hạn đổi                                           |
-| 12  | Nút nạp, ấn vào sẽ dẫn qua [[Cửa Hàng Kim Cương]].     |
+| 12  | Nút nạp, ấn vào sẽ dẫn qua [[Currency Nạp Kim cương]].     |
 
-Các nhiệm vụ trong danh sách này chính là nhiệm vụ nạp chính xác gói trong [[Cửa Hàng Kim Cương]]. 
+Các nhiệm vụ trong danh sách này chính là nhiệm vụ nạp chính xác gói trong [[Currency Nạp Kim cương]]. 
