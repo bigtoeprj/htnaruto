@@ -10,8 +10,8 @@ Docs Balance gốc: Link
 
 # Nội Dung
 Gồm 2 Tháp
-1. [[Tháp Đôi]]
-2. [[Tháp Đơn]]
+1. [[Leo Đậu Thần - Tháp Đôi]]
+2. [[Leo Đậu Thần - Tháp Đơn]]
 
 # Log cần bổ sung
 - Số user vượt qua trên từng tầng
