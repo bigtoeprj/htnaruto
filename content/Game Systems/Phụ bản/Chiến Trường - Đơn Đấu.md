@@ -11,7 +11,7 @@ tags:
 | 1   | Back Button về lại màn hình Chiến Trường                         |
 | 2   | Tên Tính năng                                                    |
 | 3   | Thời gian session còn lại mùa giải - [[Thời gian session Arena]] |
-| 4   | [[Hạng Đơn Đấu]]                                                 |
+| 4   | [[Hạng Liên Đấu]]                                                 |
 | 5   | Info user TOP                                                    |
 | 6   | Điểm mùa giải user TOP                                           |
 | 7   | Info bản thân User                                               |
