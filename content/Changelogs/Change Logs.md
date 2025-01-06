@@ -5,7 +5,15 @@ tags:
   - duongnd
   - system
 ---
-# 2 Jan 2024
+# 6 Jan 2025
+- Thêm mới: [[EW - Gói Cấp Độ 100]], [[EW - Gói Tăng Cường 8 Sao]].
+- Thêm mới: [[EW - Triệu Tập Hải Tặc]].
+# 3 Jan 2025
+- Cập nhật [[Leo Đậu Thần - Tháp Đôi]].
+- Thêm mới [[Hoán Đổi Thuyền Viên]].
+- Thêm mới [[Chiến Trường - Liên Đấu]].
+
+# 2 Jan 2025
 - Cập nhật Item bổ sung trong [[Trang bị Đặc Thù]].
 - Thêm mới: [[EW - Gói Đậu Thần Đơn 150]].
 - Thêm mới: [[Haki]].
