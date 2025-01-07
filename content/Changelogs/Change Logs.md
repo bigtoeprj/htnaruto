@@ -5,9 +5,12 @@ tags:
   - duongnd
   - system
 ---
+# 7 Jan 2025
+- Bổ sung hình ảnh các ấn trong [[Dấu Ấn Germa]].
 # 6 Jan 2025
 - Thêm mới: [[EW - Gói Cấp Độ 100]], [[EW - Gói Tăng Cường 8 Sao]].
 - Thêm mới: [[EW - Triệu Tập Hải Tặc]].
+- Thêm mới: [[Chiến Hạm]].
 # 3 Jan 2025
 - Cập nhật [[Leo Đậu Thần - Tháp Đôi]].
 - Thêm mới [[Hoán Đổi Thuyền Viên]].
