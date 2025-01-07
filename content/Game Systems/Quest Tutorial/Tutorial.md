@@ -3,7 +3,6 @@ tags:
   - questtutoral
   - tiennt
   - duongnd
-  - readyUI
 ---
 # 1. Intro
 ## a. Bước 1
@@ -208,3 +207,19 @@ tags:
 ![[20241227140129.png]]
 ## b. Bước 2
 - User được tự do, không bắt buộc phải làm theo
+
+--------------------------------------------------------------------------------
+# Luồng tutorial mở theo tính năng
+- Unlock khi đến tính năng đó
+## 1. Chiến trường
+## 2. Cửa hàng
+### a. Điều kiện
+
+## 3. Chiến hạm
+### a. Điều kiện
+- Level người chơi đạt 80
+### b. Bước 1
+- Bàn tay chỉ vào icon [[Chiến Hạm]]
+### c. Bước 2
+- Luffy hiện ra kèm text [Nâng cấp thuyền để đồng hành cùng chúng ta]
+![[20250107172903.png]]
