@@ -24,6 +24,17 @@ Khi tướng đạt [[Thức Tỉnh]] 15 sao sẽ mở Dấu ấn Germa
 | 5   | Thiết lập lại dấu ấn germa                  |
 | 6   | Đổi tướng                                   |
 ### [3] Ấn Germa
+**Các biểu tượng Ấn Germa cần vẽ:**
+
+| Tên         | Biểu tượng                           | Trong Game                           |
+| ----------- | ------------------------------------ | ------------------------------------ |
+| Cuồng Phong | ![[20250107154354.png]] | ![[20250107154403.png]] |
+| Công Kích   | ![[20250107154438.png]] | ![[20250107154429.png]] |
+| Uy Lực      | ![[20250107154446.png]] | ![[20250107154455.png]] |
+| Phòng Hộ    | ![[20250107154503.png]] | ![[20250107154511.png]] |
+
+Còn lại là 4 biểu tượng kĩ năng tướng, chúng được sắp xếp theo hình xoắn ốc, lặp lại.
+
 
 ![[20241231151912.png]]
 ![[20241231154110.png]]
@@ -35,6 +46,7 @@ Khi tướng đạt [[Thức Tỉnh]] 15 sao sẽ mở Dấu ấn Germa
 | 3   | Button nâng cấp và số [[Nước Mắt Mansherry]] cần để nâng cấp |
 | 1   | Tướng yêu cầu                                                |
 | 2   | Kích hoạt                                                    |
+
 ### [4] Trợ giúp
 Khi người chơi ấn vào [4] Trợ giúp sẽ hiện ra [[Pop-up]] trợ giúp
 ![[20241231153215.png]]
