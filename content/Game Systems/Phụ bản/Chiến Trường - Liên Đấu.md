@@ -17,18 +17,18 @@ tags:
 | 1   | Back Button về lại màn hình Chiến Trường                         |
 | 2   | Tên Tính năng                                                    |
 | 3   | Thời gian session còn lại mùa giải - [[Thời gian session Arena]] |
-| 4   | [[#Hạng Liên đấu]]                                               |
+| 4   | [[Hạng Liên đấu]]                                                |
 | 5   | Info user TOP                                                    |
 | 6   | Điểm mùa giải user TOP                                           |
 | 7   | Info bản thân User                                               |
 | 8   | [[Hạng Liên Đấu]] + Điểm User                                    |
 | 9   | Item [[Giấy Thách Đấu]]                                          |
 | 10  | Button Chiến Đấu                                                 |
-| 11  | [[#Phần thưởng]]                                                 |
-| 12  | [[#Chiến sự]]                                                    |
-| 13  | [[#Đội hình thủ]]                                                |
-| 14  | [[#Trợ giúp]]                                                    |
-| 15  | [[#Màn hình kết quả]]                                            |
+| 11  | Phần thưởng                                                      |
+| 12  | Chiến sự                                                         |
+| 13  | Đội hình thủ                                                     |
+| 14  | Trợ giúp                                                         |
+| 15  | Màn hình kết quả                                                 |
 |     |                                                                  |
 
 # Quy tắc chiến đấu
