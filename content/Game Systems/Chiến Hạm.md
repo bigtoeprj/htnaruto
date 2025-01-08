@@ -113,23 +113,41 @@ Cứ **30 cấp độ** sẽ phải **đột phá** để **tăng 1 phẩm**.
 | 9   | Stats chiến hạm.                                                |
 | 10  | Biểu tượng kĩ năng chiến hạm.                                   |
 | 11  | Cấp độ kĩ năng chiến hạm.                                       |
-| 12  | Kĩ năng chưa học.                                               |
+| 12  | Kĩ năng chưa học ở trạng thái xám                               |
 | 13  | Tài nguyên cần để **nâng cấp kĩ năng**: [[Beli]], [[Kim Loại]]. |
 | 14  | Nút nâng cấp.                                                   |
+#### [9] Stats chiến hạm
+**Gồm:**
+1. Máu
+2. Tấn công
+3. Sát thương chí mạng
+4. Tốc độ
+5. Chí mạng
 
+![[20250108144857.png]]
+
+Nếu có nhiều stats hơn thì sẽ tiếp tục thêm 1 ô.
+
+#### [10] Biểu tượng kĩ năng chiến hạm
+Mỗi chiến hạm có **4 biểu tượng kĩ năng dùng chung**.
+
+![[20250108145145.png]]
+
+#### [14] Nút nâng cấp
+
+| Trạng thái            | Hình Ảnh                             |
+| --------------------- | ------------------------------------ |
+| Chưa mở khóa          | ![[20250108145555.png]] |
+| Có thể nâng cấp       | ![[20250108145549.png]] |
+| Nâng cấp đạt giới hạn | ![[20250108145605.png]] |
 
 ### [5] Tab Nội Tại
 Mở khóa khi người chơi nâng cấp toàn bộ 4 kĩ năng của Chiến Hạm lên **level max**.
 
-
-### [6] Banner Chiến hạm
-
-
-### [7] Nút Tái Tạo
-
-
-### [11] Phẩm Chiến Hạm
-
+| Trạng thái       | Hình Ảnh                        |
+| ---------------- | ------------------------------- |
+| **Chưa mở khóa** | ![[MuMu12-20250108-025628.png]] |
+| **Mở khóa**      | ![[MuMu12-20250108-025721.png]] |
 
 ## [11] Tính năng Nội Thất
 Tính năng này sẽ bổ sung sau.
