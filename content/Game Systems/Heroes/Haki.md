@@ -39,6 +39,7 @@ Người chơi thức tỉnh tướng lên các bậc tiếp theo sẽ mở khó
 | E11   | ![[skill_e_11.png]]  | E12   | ![[skill_e_12.png]]  |
 | E13   | ![[skill_e_13.png]]  | E14   | ![[skill_e_14.png]]  |
 | E15   | ![[skill_e_15.png]]  |       |                      |
+
 Khi mở khóa 1 haki, người chơi có thể chọn 1 trong 3 loai haki cho tướng của mình bằng cách ấn vào button "haki"
 Sau khi ấn vào sẽ mở ra 1 popup để user chọn
 ![[20250108142736.png]]
