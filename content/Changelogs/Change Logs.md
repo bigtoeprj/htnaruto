@@ -8,7 +8,8 @@ tags:
 # 8 Jan 2025
 - Cập nhật Tutorial cho [[Chiến Hạm]] tại [[Tutorial]].
 - Thêm mới: [[EW - Gói Cấp Độ 70]], [[EW - Gói Tăng Cường 9 Sao]].
-- Cập nhật hình ảnh buff và bổ sung doc cho nút [[Haki]]
+- Cập nhật hình ảnh buff và bổ sung doc cho nút [[Haki]].
+- Bổ sung thông tin cho [[Chiến Hạm]].
 # 7 Jan 2025
 - Bổ sung hình ảnh các ấn trong [[Dấu Ấn Germa]].
 # 6 Jan 2025
