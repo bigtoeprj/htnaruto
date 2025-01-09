@@ -24,6 +24,7 @@ Từ [[Lobby System (Home)]], chọn biểu tượng Chiến Hạm
 | 9   | Background tính năng.                            |
 | 10  | Số lượng tab.                                    |
 | 11  | Tính năng Nội Thất.                              |
+| -   | Danh sách chiến hạm trong game                   |
 ## [3] Nút Hướng Dẫn
 Bấm vào sẽ bung ra [[Pop-up]].
 
@@ -151,3 +152,34 @@ Mở khóa khi người chơi nâng cấp toàn bộ 4 kĩ năng của Chiến H
 
 ## [11] Tính năng Nội Thất
 Tính năng này sẽ bổ sung sau.
+
+## [-] Danh sách chiến hạm trong game
+Tổng cộng gồm 6 chiến hạm.
+
+![[MuMu12-20250108-052600.png]]
+
+![[MuMu12-20250108-052605.png]]
+
+| Tên            | Hình Ảnh            | Kĩ năng                                                                                                                                  |
+| -------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Thousand Sunny | ![[Shiphome_2.png]] | Gây sát thương lên 5 kẻ địch ngẫu nhiên và có tỉ lệ gây choáng chúng. Tăng cho 5 đồng minh ngẫu nhiên sát thương chuẩn.                  |
+| Germa 66       | ![[Ship_6.png]]     | Gây sát thương lên 5 kẻ địch ngẫu nhiên, giảm thủ và tốc của chúng. Tăng 5 đồng minh ngẫu nhiên công.                                    |
+| Perfume Yuda   | ![[Shiphome_3.png]] | Gây sát thương lên 5 kẻ địch ngẫu nhiên. Hồi máu cho 5 đồng minh ngẫu nhiên, tăng thủ và công.                                           |
+| Snapper Head   | ![[Shiphome_4.png]] | Gây sát thương lên 5 kẻ địch ngẫu nhiên và câm lặng chúng. Đồng thời, hồi nộ cho 5 đồng minh ngẫu nhiên.                                 |
+| Red Force      | ![[Shiphome_1.png]] | Gây sát thương lên 5 kẻ địch ngẫu nhiên, gây thêm sát thương mỗi vòng. Tăng sát thương cho 5 đồng minh dựa trên sát thương kẻ địch nhận. |
+| Sexy Foxy      | ![[Ship_5.png]]     | Gây sát thương lên 5 kẻ địch ngẫu nhiên và hóa đá chúng. Tăng sát thương chí mạng cho 5 đồng minh ngẫu nhiên.                            |
+Khi mở khóa chiến hạm, người chơi có thể chọn chiến hạm trong danh sách [[Chuẩn Bị Đội Hình]].
+
+![[20250108173348.png]]
+
+Bấm vào sẽ bung ra [[Pop-up]] chọn chiến hạm.
+
+![[MuMu12-20250108-053405.png]]
+
+Ở trong [[Battle System]], khi người chơi mở khóa chiến hạm sẽ có thêm một thanh nộ.
+
+![[20250108173515.png]]
+
+Khi đầy thanh nộ, chiến hạm sẽ tung ra kĩ năng tương ứng.
+
+![[HTHT-ChienHamBattle.mp4]]
