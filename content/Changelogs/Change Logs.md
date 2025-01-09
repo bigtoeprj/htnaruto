@@ -6,7 +6,7 @@ tags:
   - system
 ---
 # 9 Jan 2025
-- Thêm mới: [[EW - Tích Tiêu Kim Cương]].
+- Thêm mới: [[EW - Tích Tiêu Kim Cương]], [[Shop - Boss]].
 # 8 Jan 2025
 - Cập nhật Tutorial cho [[Chiến Hạm]] tại [[Tutorial]].
 - Thêm mới: [[EW - Gói Cấp Độ 70]], [[EW - Gói Tăng Cường 9 Sao]].
