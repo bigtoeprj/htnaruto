@@ -2,7 +2,6 @@
 tags:
   - phuongch
 ---
-
 # Vị trí tính năng
 Ngoài [[Lobby System (Home)]], chọn [[Phụ Bản System]]; sau đó chọn [[Hạm Đội]]
 ![[20241224100003.png]]
@@ -379,3 +378,61 @@ Không giới hạn số lần cống hiến trong ngày
 ![[20241227173221.png]]
 
 Thông tin các thành viên kèm cống hiến được sắp xếp từ cao xuống thấp
+
+## [4] Hạm Đội Chiến - Chiến Trường
+### [1] Vị trí tính năng
+Nằm trong khuôn viên [[Hạm Đội]] - mô tả bằng Con Thuyền [Chiến trường]
+![[20250109111110.png]]
+
+### [2] Quy tắc tính năng [Hạm đội chiến]
+##### 1. Điều kiện tham gia, hệ thống tự đăng ký & ghép cặp
+- Cấp độ hạm hội: cấp **10** trở lên.
+- Số lượng thành viên trong hạm: **10** trở lên
+##### 2. Ra quân
+- Thuyền trưởng tiến hành đăng ký thành viên trong hạm đội sẽ ra quân.
+- Thành viên nếu được chọn thì cập nhật đội hình ra quân của chính mình
+![[20250109112017.png]]
+**Lưu ý:**
+- Nếu như thuyền trưởng **KHÔNG** chọn thành viên đánh bang chiến thì hệ thống sẽ lấy **THÀNH VIÊN** từ trên xuống dưới.
+- Thành viên hạm đội **KHÔNG** cập nhật đội hình ra quân của mình sẽ **TỰ ĐỘNG** lấy đội hình của thành viên đó đi ải.
+- Các hạm đội sẽ được hệ thống bắt cặp ngẫu nhiên với nhau, số lượng thành viên tham chiến của mỗi bang sẽ dựa theo con số nhỏ nhất giữa 2 bang.
+**Ví dụ:** Bang A tham chiến 20 người, Bang B tham chiến 15 người thì số lượng thành viên tham chiến của mỗi bang sẽ là 15.
+### [3] Thời gian
+- Thời gian chốt danh sách hạm đội tham gia thử nghiệm hạm đội chiến: Trước **10h00 ngày Thứ 6 mỗi tuần**
+- Thời gian thuyền trưởng & thuyền viên sắp xếp đội hình: **10h00 Thứ 6 đến 23:59 ngày Thứ 6 mỗi tuần**
+- Thời gian chiến đấu: **từ 0h00 đến 23h59p ngày Thứ 7 mỗi tuần**
+- Thời gian trao thưởng: **từ 0h00 đến 23h59p ngày Chủ Nhật mỗi tuần** 
+### [4] Ngày báo danh
+- Tất cả bang hội đủ **điều kiện** trước **10h00 ngày Thứ 6** sẽ được ngẫu nhiên ghép cặp với hạm đội khác
+- Thời gian thuyền trưởng & thuyền viên sắp xếp đội hình: **10h00 Thứ 6 đến 23:59 ngày Thứ 6**
+### [5] NGÀY CHIẾN ĐẤU
+![[20250109112124.png]]
+##### 1. Điều kiện chiến đấu:
+- Thời gian chiến đấu: **từ 0h00 đến 23h59p ngày T7**
+- Những thuyền viên được thuyền trưởng báo danh thành công.
+##### 2. Cách thức tham gia chiến đấu:
+- Mỗi thành viên sẽ có 1 lượt đánh. 
+- Mỗi lần tấn công đối thủ sẽ được tính 1 - 3 Sao cho hạm đội của mình.
+- Sau mỗi lượt của mỗi cá nhân tấn công địch sẽ nhận thêm phần thưởng. 
+- Nếu 2 người cùng tấn công 1 đối thủ thì tính số sao cao nhất đạt được.
+- Phân định thắng thua sẽ dựa theo tổng số Sao mỗi hạm đội nhận được.
+- Việc lựa chọn đối thủ để tấn công sẽ là mấu chốt quyết định thắng thua của cả hạm đội.
+**Lưu ý:**
+- Trong trường hợp 2 bên hoà nhau sao thì bên nào đạt sao tối đa trước sẽ thắng.
+- Ví dụ : Hạm A đạt trước 20 sao và sau đó Hạm B cũng đạt 20 sao. Như vậy Hạm A giành chiến thắng
+![[20250109112348.png]]
+### [6] CÁCH TÍNH SAO
+![[20250109112413.png]]
+**Lưu ý:**
+- Hạm đội chiến không quan trọng Thắng - Thua
+- Chỉ tính sao dựa trên số địch bị tiêu diệt
+![[20250109112509.png]]
+### [7] NGÀY PHÁT THƯỞNG
+- Sau khi kết thúc ngày chiến đấu, hệ thống sẽ tiến hành phát thưởng cho tất cả **Hạm** tham gia **Hạm Đội Chiến**
+- Phần thưởng sẽ phân biệt cho bang hội Thắng - Thua. Tất cả thành viên trong bang đều sẽ nhận được thưởng (kể cả thành viên không tham gia bang chiến).
+- Những thành viên vào **TRƯỚC** ngày đăng ký bang chiến mới được nhận thưởng (tức trước 10h00 ngày Thứ 6)
+**Lưu ý:**
+- Hạm đội chiến sẽ là hoạt động Liên Server, các bang hội ở máy chủ khác nhau có thể gặp nhau.
+- Trường hợp tổng số bang đăng ký là số lẻ, bang hội nào không được hệ thống bắt cặp tham gia thi đấu vẫn sẽ nhận được quà.
+### [8] CHIẾN TÍCH HẠM ĐỘI
+![[20250109113200.png]]
