@@ -434,3 +434,5 @@ Nằm trong khuôn viên [[Hạm Đội]] - mô tả bằng Con Thuyền [Chiế
 **Lưu ý:**
 - Hạm đội chiến sẽ là hoạt động Liên Server, các bang hội ở máy chủ khác nhau có thể gặp nhau.
 - Trường hợp tổng số bang đăng ký là số lẻ, bang hội nào không được hệ thống bắt cặp tham gia thi đấu vẫn sẽ nhận được quà.
+### [8] CHIẾN TÍCH HẠM ĐỘI
+![[20250109113200.png]]
