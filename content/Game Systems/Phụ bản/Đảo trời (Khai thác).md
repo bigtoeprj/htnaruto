@@ -283,7 +283,7 @@ Nhà Khoa Kĩ tăng % Máu và Công khi tấn công các Thảo Khấu.
 ![[HTHT-DaoTroi-NhaKhoaKi.mp4]]
 
 # Animation Request
-Gồm Animation Idle của tất cả các công trình và thảo khấu, không có trạng thái xây dựng.
+Gồm Animation Idle của tất cả các công trình và thảo khấu, không có trạng thái xây dựng và bị phá hủy.
 
 | Công trình         | Animation Idle                   |
 | ------------------ | -------------------------------- |
