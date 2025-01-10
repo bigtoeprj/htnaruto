@@ -281,3 +281,18 @@ Nhà Khoa Kĩ tăng % Máu và Công khi tấn công các Thảo Khấu.
 **Video trong game**
 
 ![[HTHT-DaoTroi-NhaKhoaKi.mp4]]
+
+# Animation Request
+Gồm Animation Idle của tất cả các công trình và thảo khấu, không có trạng thái xây dựng.
+
+| Công trình         | Animation Idle                   |
+| ------------------ | -------------------------------- |
+| **Thảo Khấu**      | ![[idleThaoKhau-ezgif.gif]]      |
+| **Boss Thảo Khấu** | ![[idleThaokhauboss-ezgif.gif]]  |
+| **Nhà Chính**      | ![[idleNhaChinh-ezgif.gif]]      |
+| **Mỏ Kim Cương**   | ![[idleMoKimCuong-ezgif.gif]]    |
+| **Mỏ Đồng**        | ![[idleMoDong-ezgif.gif]]        |
+| **Quặng Ma Thuật** | ![[idleQuangMaThuat-ezgif.gif]]  |
+| **Nhà Vỏ Ốc**      | ![[idleNhaVoOc-ezgif.gif]]       |
+| **Nhà Nghiên Cứu** | ![[idle-nhaNghienCuu-ezgif.gif]] |
+| **Nhà Khoa Kĩ**    | ![[idleNhaKhoaKi-ezgif.gif]]     |
