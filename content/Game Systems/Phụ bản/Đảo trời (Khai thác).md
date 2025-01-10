@@ -283,7 +283,7 @@ Nhà Khoa Kĩ tăng % Máu và Công khi tấn công các Thảo Khấu.
 ![[HTHT-DaoTroi-NhaKhoaKi.mp4]]
 
 # Animation Request
-Gồm Animation Idle của tất cả các công trình và thảo khấu, không có trạng thái xây dựng và bị phá hủy.
+Gồm Animation Idle của tất cả các công trình và thảo khấu.
 
 | Công trình         | Animation Idle                   |
 | ------------------ | -------------------------------- |
@@ -296,3 +296,11 @@ Gồm Animation Idle của tất cả các công trình và thảo khấu, khôn
 | **Nhà Vỏ Ốc**      | ![[idleNhaVoOc-ezgif.gif]]       |
 | **Nhà Nghiên Cứu** | ![[idle-nhaNghienCuu-ezgif.gif]] |
 | **Nhà Khoa Kĩ**    | ![[idleNhaKhoaKi-ezgif.gif]]     |
+
+Ngoài ra còn có animation Xây Dựng công trình. Game sẽ hiển thị 2 chiếc cuốc vào nhà đó
+
+![[Pasted image 20250110144519.png]]
+
+Xem video tham khảo xây dựng mỏ đồng.
+
+![[HTHT-DaoTroi-XayDung.mp4]]
