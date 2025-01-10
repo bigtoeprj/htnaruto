@@ -5,6 +5,8 @@ tags:
   - duongnd
   - system
 ---
+# 10 Jan 2025
+- Cập nhật Animation Request cho [[Đảo trời (Khai thác)]].
 # 9 Jan 2025
 - Thêm mới: [[EW - Tích Tiêu Kim Cương]], [[Shop - Boss]].
 - Cập nhật: Hạm đội PvP trong [[Hạm Đội]].
