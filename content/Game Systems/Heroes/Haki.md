@@ -26,19 +26,16 @@ Người chơi thức tỉnh tướng lên các bậc tiếp theo sẽ mở khó
 
 **Danh sách các biểu tượng Haki**
 
-| ID    | Hình Ảnh             | ID    | Hình Ảnh             |
-| ----- | -------------------- | ----- | -------------------- |
-| 30000 | ![[skill_30000.png]] | 30001 | ![[skill_30001.png]] |
-| 30002 | ![[skill_30002.png]] | 30003 | ![[skill_30003.png]] |
-| 30004 | ![[skill_30004.png]] | 30005 | ![[skill_30005.png]] |
-| E1    | ![[skill_e_1.png]]   | E2    | ![[skill_e_2.png]]   |
-| E3    | ![[skill_e_3.png]]   | E4    | ![[skill_e_4.png]]   |
-| E5    | ![[skill_e_5.png]]   | E6    | ![[skill_e_6.png]]   |
-| E7    | ![[skill_e_7.png]]   | E8    | ![[skill_e_8.png]]   |
-| E9    | ![[skill_e_9.png]]   | E10   | ![[skill_e_10.png]]  |
-| E11   | ![[skill_e_11.png]]  | E12   | ![[skill_e_12.png]]  |
-| E13   | ![[skill_e_13.png]]  | E14   | ![[skill_e_14.png]]  |
-| E15   | ![[skill_e_15.png]]  |       |                      |
+| ID    | Hình Ảnh             | Loại Chỉ số                                                  | ID    | Hình Ảnh             | Loại Chỉ số                                                                                                |
+| ----- | -------------------- | ------------------------------------------------------------ | ----- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
+| E1    | ![[skill_e_1.png]]   | +12% HP                                                      | E2    | ![[skill_e_2.png]]   | +10% Công                                                                                                  |
+| E3    | ![[skill_e_3.png]]   | +30 Speed                                                    | E4    | ![[skill_e_4.png]]   | Giảm sát thương khi nhận ST chí mạng                                                                       |
+| E5    | ![[skill_e_5.png]]   | Giảm 15% ST khi nhận ST từ độc, thiêu đốt,chảy máu           | E6    | ![[skill_e_6.png]]   | Tăng 15% hiệu ứng hồi máu                                                                                  |
+| E7    | ![[skill_e_7.png]]   | Hồi 15% máu đã mất ở cuối lượt                               | E8    | ![[skill_e_8.png]]   | Cuối mỗi lượt tăng 3% công với mỗi tướng còn sống ở cả 2 bên                                               |
+| E9    | ![[skill_e_9.png]]   | Cuối mỗi lượt, 50% xóa bỏ 1 hiệu ứng xấu trên bản thân       | E10   | ![[skill_e_10.png]]  | Đánh thường và nộ khi chí mạng sẽ hồi máu bằng 15% ST gây ra, nếu không chí mạng tăng sát thương thêm 100% |
+| E11   | ![[skill_e_11.png]]  | Dưới 50% HP, miễn 3 lần chịu sát thương (1 lần mỗi trận đấu) | E12   | ![[skill_e_12.png]]  | Tăng 100 Speed                                                                                             |
+| E13   | ![[skill_e_13.png]]  | Tăng 20% công, 10% miễn chống                                | E14   | ![[skill_e_14.png]]  | Tăng 20% máu, 10% giảm sát thương                                                                          |
+| E15   | ![[skill_e_15.png]]  | Khi sử dụng kỹ năng có 30% hồi lại 100 nộ                    |       |                      |                                                                                                            |
 
 Sau khi ấn vào "Haki" sẽ mở ra 1 popup để user chọn haki cho tướng ứng với mốc haki
 
