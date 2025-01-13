@@ -299,7 +299,7 @@ Gồm Animation Idle của tất cả các công trình và thảo khấu.
 
 Ngoài ra còn có animation Xây Dựng công trình. Game sẽ hiển thị 2 chiếc cuốc vào nhà đó
 
-![[Pasted image 20250110144519.png]]
+![[20250110144519.png]]
 
 Xem video tham khảo xây dựng mỏ đồng.
 
