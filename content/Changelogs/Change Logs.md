@@ -5,6 +5,10 @@ tags:
   - duongnd
   - system
 ---
+# 14 Jan 2025
+- Thêm mới: [[EW - Vòng Quay Ác Quỷ Cao Cấp]], [[EW - Vòng Quay Ác Quỷ Thường]], [[Event - Triệu Hồi Thú Cưng]], [[Event - Truy Nã]], [[Event - Lễ Hội Trang Bị]]
+- Cửa hàng mới: [[EW - Cửa hàng thuốc hoán đổi]], [[EW - Shop Kim Cương]], [[EW - Cửa hàng Hồn Hải Tặc]], [[EW - Vegapunk Shop]]
+- Gói nạp mới: [[EW - Gói Ưu Đãi Đua Top Cốc Bia Vàng]]
 # 10 Jan 2025
 - Cập nhật Animation Request cho [[Đảo trời (Khai thác)]].
 # 9 Jan 2025
@@ -63,9 +67,9 @@ tags:
 - Sửa lỗi [[Tiệm Đồ]] không hiển thị trong docs.
 - Thêm mới: [[Đảo trời (Khai thác)]].
 # 20 Dec 2024
-- Thêm mới: [[Gói Ưu Đãi Chiêu Mộ Vua Hải Tặc]].
-- Thêm mới: [[Gói Ưu Đãi Đua Top Xu Vòng Quay]].
-- Thêm mới: [[Gói Ngày Siêu Ưu Đãi (x2 VIP Exp)]].
+- Thêm mới: [[EW - Gói Ưu Đãi Chiêu Mộ Vua Hải Tặc]].
+- Thêm mới: [[EW - Gói Ưu Đãi Đua Top Xu Vòng Quay]].
+- Thêm mới: [[EW - Gói Ngày Siêu Ưu Đãi (x2 VIP Exp)]].
 - Thêm mới: [[Sự Kiện Tháng - Luyện Tập]].
 - Thêm mới: [[Tích Lũy Vip EXP]].
 # 19 Dec 2024
