@@ -55,8 +55,12 @@ Người chơi ấn vào button (5) để thiết lập lại (reset) dấu ấn
 Thiết lập lại Germa cần Kim Cương, toàn bộ nguyên liệu đã sử dụng để nâng cấp Germa sẽ được hoàn trả .
 ### [6] Đổi Tướng
 Người chơi sử dụng đổi tướng để đổi 1 tướng 15 sao này sang tướng 15 sao khác
-Yêu cầu cần [4] thiết lập lại dấu ấn germa trước khi đổi
+Yêu cầu cần [4] thiết lập lại dấu ấn germa trước khi đổi:
+![[20250116103129.png]]
+
+Sau khi chọn đủ tướng
 ![[20241231153801.png]]
+
 
 | STT | Diễn giải                               |
 | --- | --------------------------------------- |
