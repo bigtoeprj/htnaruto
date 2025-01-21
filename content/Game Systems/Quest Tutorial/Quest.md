@@ -17,6 +17,7 @@ tags:
 | 9    | Huyết tế {0} lần                   | HuyetTeChar        | achi_HuyetTeChar       |
 | 10   | Mua {0} lượt chiến dịch anh hùng   | BuyChienDichTicket | tut_BuyChienDichTicket |
 
+
 | id  | code            | data    | Thưởng                                                                                                                      | Số Lượng             |
 | --- | --------------- | ------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------- |
 | 1   | ReachStage      | [1]     | [[Đá EXP]], [[Beli]]                                                                                                        | 5000, 5000           |
@@ -102,3 +103,5 @@ tags:
 | 81  | TowerSingle     | [200]   | [[Mảnh Bảo Vật Vàng Đặc Biệt]]                                                                                              | 50                   |
 | 82  | ReachStage      | [139]   | [[Mảnh Tướng 5 Sao]]                                                                                                        | 100                  |
 | 83  | ReachStage      | [140]   | [[Mảnh Tướng Sinh Khí 5 Sao]], [[Mảnh Tướng Bền Bỉ 5 Sao]], [[Mảnh Tướng Nhanh Nhẹn 5 Sao]], [[Mảnh Tướng Chính Xác 5 Sao]] | 100, 100, 100, 100   |
+
+
