@@ -159,19 +159,42 @@ Thuyền trưởng và thuyền phó điền text thông tin chào mời thành 
 Sau khi hoàn thành sex hiển thị trên kênh chat tuyển mộ
 ![[20241227141345.png]]
 
-| ID  | Detail                                            |
-| --- | ------------------------------------------------- |
-| 1   | Khu hiển thij và click vào để điền text  tuyển mộ |
-| 2   | thoát                                             |
-| 3   | Gửi tuyển mộ                                      |
-#### Thành viên
+| ID  | Detail                                           |
+| --- | ------------------------------------------------ |
+| 1   | Khu hiển thị và click vào để điền text  tuyển mộ |
+| 2   | thoát                                            |
+| 3   | Gửi tuyển mộ                                     |
+#### [4] Thành viên
+
+Quyền 
+
+| Chức vụ       | Quyền                         | Số lượng |
+| ------------- | ----------------------------- | -------- |
+| Thuyền trưởng | Đề bạt<br>Khai trừ<br>Gửi thư | 1        |
+| Thuyền phó    | Khai trừ<br>Gửi thư           | 2        |
+| Thành viên    | View                          | ....     |
+
+[Khai trừ]
 ![[20241227142059.png]]
-Với những thuyền viên thường chỉ hiển thị thông tin user và chức vụ
-Với thuyền phó và thuyền trưởng có thêm quyền khai trừ bằng cách ấn vào nút "khai trừ"
+Với những **thuyền viên thường** chỉ hiển thị thông tin user và chức vụ
+Với thuyền phó và thuyền trưởng có thêm quyền khai trừ bằng cách ấn vào nút **"khai trừ"**
 Khi click vào khai trừ sẽ hiển thị [[Pop-up]] hỏi lại việc "khai trừ"
 
-
-#### Gửi thư
+[Đề bạt]
+Đề bạt là chức năng thay đổi chức vụ thành viên của Thuyền Trưởng
+- Với thành viên chức vụ Thuyền Phó: có thể đề bạt lên Thuyền trưởng hoặc xuống thành viên
+	- Lên Thuyền Trưởng: thì Thuyền Trưởng cũ sẽ về thành viên, trống 1 vị trí Thuyền Phó
+	- Xuống Thành viên: thì Thuyền Phó cũ sẽ về thành viên, trống 1 vị trí Thuyền Phó
+- Với thành viên chức vụ Thành Viên: có thể đề bạt lên Thuyền Trưởng hoặc Thuyền Phó
+	- Lên Thuyền Trưởng:  thì Thuyền Trưởng cũ sẽ về thành viên
+	- Lên Thuyền Phó: nếu còn slot thuyền phó sẽ lên thành công, không đủ slot sẽ báo "Không còn slot Thuyền Phó"
+Quản lý hạm đội Thuyền Trưởng
+![[image_2025-02-04_14-35-42.png]] 
+Đề bạt Thuyền phó
+![[image_2025-02-04_14-35-42(2).png]]
+Đề bạt Thuyền viên
+![[image_2025-02-04_14-35-42(3).png]]
+#### [3] Gửi thư
 ![[20241227141537.png]]
 Thuyền trưởng và thuyền phó điền text vào khu nội dung.
 Ấn gửi sẽ có thư gửi đến các thành viên trong bang
