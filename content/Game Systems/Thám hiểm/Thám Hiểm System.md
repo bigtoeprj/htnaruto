@@ -17,10 +17,10 @@ Từ màn hình [[Lobby System (Home)]], chọn Thám Hiểm để vào tính n�
 
 | ID  | Giải nghĩa                                                           |
 | --- | -------------------------------------------------------------------- |
-| 1   | Back Button. Bấm sẽ về [[Lobby System (Home)]].                             |
+| 1   | Back Button. Bấm sẽ về [[Lobby System (Home)]].                      |
 | 2   | Tên Ải tương ứng trong [[Địa Điểm Thám Hiểm]]. Không thể bấm.        |
 | 3   | Button xem top vượt ải. Bấm ra [[Top Vượt Ải]].                      |
-| 4   | Button hướng dẫn. Bấm ra [[Info Vượt ải]].                           |
+| 4   | Button hướng dẫn. Bấm ra [[Info Vượt Ải]].                           |
 | 5   | Đội hình idle trong [[AFK]]. Không thể bấm.                          |
 | 6   | Background. Không thể bấm.                                           |
 | 7   | Đội hình quái trong [[AFK]]. Không thể bấm.                          |
