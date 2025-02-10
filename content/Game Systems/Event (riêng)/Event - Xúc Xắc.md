@@ -57,7 +57,7 @@ Trong **thời gian diễn ra sự kiện**, người chơi sử dụng Xúc X�
 - Có 1 ô: [Start], main sẽ bắt đầu ở đó.
 ### b. Tài nguyên
 - 15 ô tài nguyên: gồm các loại tài nguyên và số lượng khác nhau, khởi điểm đều level 1
-- Mỗi khi main dừng ở ô tài nguyên nào, ô đó sẽ tăng level tài nguyên, tối đa 3 level. Khi tăng level số lượng quà cũng tăng lên. **File Balance | Danh sách tài nguyên + số lượng**
+- Mỗi khi main dừng ở ô tài nguyên nào, ô đó sẽ tăng level tài nguyên, tối đa 3 level. Khi tăng level số lượng quà cũng tăng lên. [**File Balance | Danh sách tài nguyên + số lượng**](https://docs.google.com/spreadsheets/d/1uSZCHcOM-FG_FCv4v_xMnhVttvERaSoRw7NNHp7AQhk/edit?gid=340885960#gid=340885960&range=A1)
 ### c. Sao may mắn
 - Sao may mắn cách đều nhau 6 ô
 - Khi đi qua ô này thì nhận được số sao tương ứng. Tích luỹ sao để đổi các phần quà rất giá trị
@@ -67,7 +67,7 @@ Trong **thời gian diễn ra sự kiện**, người chơi sử dụng Xúc X�
 - Đi vào ô này bạn sẽ bị choáng. Nếu lần xúc xắc kế tiếp là chẵn thì được đi tiến, lẻ thì bị đi lùi theo số chấm trên xúc xắc
 ### e. Bài Tarot
 - Chọn 1 trong 3 lá bài ngẫu nhiên. Lá bài có thể: May mắn hoặc Xui Xẻo!
-- Nội dung lá bài: **File Balance | Danh sách lá bài + hiệu ứng**
+- Nội dung lá bài: [**File Balance | Danh sách lá bài + hiệu ứng**](https://docs.google.com/spreadsheets/d/1uSZCHcOM-FG_FCv4v_xMnhVttvERaSoRw7NNHp7AQhk/edit?gid=340885960#gid=340885960&range=A1)
 ### f. Xúc xắc thường
 - Đi vào để nhận thêm 1 xúc xắc thường
 ### g. Xúc xắc may mắn
@@ -78,11 +78,11 @@ Trong **thời gian diễn ra sự kiện**, người chơi sử dụng Xúc X�
 ## 3. Phần thưởng
 - Người chơi thu thập sao may mắn, khi đạt mốc sẽ được quà tương ứng
 - Phần thưởng tự động gửi
-- **File Balance | Danh sách mốc sao + quà tương ứng**
+- [**File Balance | Danh sách mốc sao + quà tương ứng**](https://docs.google.com/spreadsheets/d/1uSZCHcOM-FG_FCv4v_xMnhVttvERaSoRw7NNHp7AQhk/edit?gid=340885960#gid=340885960&range=A1)
 ## 4. Xúc xắc
 ### a. Xúc xắc thường
 - Mua: **150** kim cương / 1 xúc xắc thường
-- Nhận qua các sự kiện, quà hằng ngày. **File Balance | Số lượng xúc xắc thưởng tại các sự kiện**
+- Nhận qua các sự kiện, quà hằng ngày. [**File Balance | Số lượng xúc xắc thưởng tại các sự kiện**](https://docs.google.com/spreadsheets/d/1uSZCHcOM-FG_FCv4v_xMnhVttvERaSoRw7NNHp7AQhk/edit?gid=340885960#gid=340885960&range=A1)
 	- Sự kiện: gói ưu đãi
 		- Giá: 22k : 2 xúc xắc, 2 chìa khóa vượt ngục
 		- Giá: 69k: 2 xúc xắc, 5 chìa khóa vượt ngục
@@ -110,4 +110,3 @@ Trong **thời gian diễn ra sự kiện**, người chơi sử dụng Xúc X�
 
 - Xúc xắc may mắn: ![[20250210153145.png]]
 - Bài tarot ![[20250210153057.png]]
-- 
