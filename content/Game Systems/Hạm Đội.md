@@ -458,4 +458,13 @@ Nằm trong khuôn viên [[Hạm Đội]] - mô tả bằng Con Thuyền [Chiế
 - Hạm đội chiến sẽ là hoạt động Liên Server, các bang hội ở máy chủ khác nhau có thể gặp nhau.
 - Trường hợp tổng số bang đăng ký là số lẻ, bang hội nào không được hệ thống bắt cặp tham gia thi đấu vẫn sẽ nhận được quà.
 ### [8] CHIẾN TÍCH HẠM ĐỘI
+
 ![[20250109113200.png]]
+
+### [9] Quà thưởng
+- Danh sách quà thưởng theo số sao ![[20250211111927.png]] 
+- **File Balance | Quà**
+### [10] Map - Chiến đấu
+- Báo danh ![[20250211112056.png]] : người chơi cần đăng ký báo danh
+- Đăng ký Bang chiến ![[20250211111844.png]]  xuất hiện cửa sổ ![[20250211112325.png]]
+- Khi [Do thám] sẽ hiển thị màn hình ![[20250211112355.png]]
