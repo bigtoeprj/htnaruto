@@ -35,6 +35,10 @@ Trong **thời gian diễn ra sự kiện**, người chơi sẽ được nhận
 - Tại giao diện này, thuyền trưởng có thể chọn 1 trong 4 nhóm thưởng để ước vật phẩm thưởng.
 ![[20250217134454.png]]
 - Sử dụng [Thiệp Sinh Nhật] ![[20250217134520.png]] để đổi quà mà thuyền trưởng đã ước, khi ước không ra vật phẩm đã chọn sẽ nhận 1 quà an ủi.
+![[20250217141539.png]]
+![[20250217141616.png]]
+![[20250217141657.png]]
+![[20250217141726.png]]
 - Nếu ước ra đúng vật phẩm đã chọn thì hạn thưởng nhóm đó sẽ thành 3/3.
 - Khi hoàn thành tất cả nhóm thì hạn thưởng 3/3 sẽ tự động reset hạn nhận thưởng thành 0/3
 - File Balance | **Danh sách vật phẩm có thể chọn trong nhóm quà tương ứng**
