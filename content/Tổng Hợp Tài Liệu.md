@@ -18,3 +18,6 @@ tags:
 | Localization                        | [Link](https://docs.google.com/spreadsheets/d/1Mup36nT0B-TeARwutZvby13P4VrHpZBOroPGHHs72j8/edit?gid=0#gid=0)                                                                                   | Localize của game                              |
 | VHT - Bugs                          | [Link](https://docs.google.com/spreadsheets/d/1XyVD-QLIFcueTHf2EfPrq6xD4GsEOT-RaGIYaZYU0T0/edit?gid=0#gid=0)                                                                                   | List Bug                                       |
 | **Drive Art mới**                   | [Link](https://drive.google.com/drive/u/0/folders/0AD57gL3-lps5Uk9PVA)                                                                                                                         | File Art mới thay folder cũ VHT - Art Resource |
+| GM Tool                             | [Dev](http://123.31.29.141:6080/#/dashboard)<br>[Product](http://123.30.149.22:6080/#/dashboard)                                                                                               | Xem metric, chỉnh sửa data.                    |
+
+

@@ -5,6 +5,12 @@ tags:
   - duongnd
   - system
 ---
+# 24 Feb 2025
+- Update Link xem metric trong [[Tổng Hợp Tài Liệu]].
+# 10 Feb 2025
+- Thêm mới: [[Event - Tiệc Kẹo Big Mom]].
+- Thêm mới: [[Event - Xúc Xắc]].
+- Update khai trừ, đề bạt trong [[Hạm Đội]]
 # 14 Jan 2025
 - Thêm mới: [[EW - Vòng Quay Ác Quỷ Cao Cấp]], [[EW - Vòng Quay Ác Quỷ Thường]], [[Event - Triệu Hồi Thú Cưng]], [[Event - Truy Nã]], [[Event - Lễ Hội Trang Bị]]
 - Cửa hàng mới: [[EW - Cửa hàng thuốc hoán đổi]], [[EW - Shop Kim Cương]], [[EW - Cửa hàng Hồn Hải Tặc]], [[EW - Vegapunk Shop]]
