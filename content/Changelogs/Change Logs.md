@@ -7,6 +7,7 @@ tags:
 ---
 # 24 Feb 2025
 - Update Link xem metric trong [[Tổng Hợp Tài Liệu]].
+- Thêm mới: [[Event - Đua Top]].
 # 10 Feb 2025
 - Thêm mới: [[Event - Tiệc Kẹo Big Mom]].
 - Thêm mới: [[Event - Xúc Xắc]].

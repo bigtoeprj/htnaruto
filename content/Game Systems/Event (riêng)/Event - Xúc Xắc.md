@@ -1,7 +1,6 @@
 ---
 tags:
   - event
-  - tiennt
   - duongnd
   - readyUI
 ---
