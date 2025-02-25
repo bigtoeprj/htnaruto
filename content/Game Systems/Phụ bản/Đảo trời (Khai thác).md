@@ -304,3 +304,9 @@ Ngoài ra còn có animation Xây Dựng công trình. Game sẽ hiển thị 2 
 Xem video tham khảo xây dựng mỏ đồng.
 
 ![[HTHT-DaoTroi-XayDung.mp4]]
+# Vị trí unlock khi nâng cấp nhà chính
+Khi nhà chính nâng cấp, các vị trí sẽ được mở khóa dần theo thứ tự trong hình (cùng số là cùng được mở khóa)
+
+![[20250225141211.png]]
+
+![[20250225141713.png]]
