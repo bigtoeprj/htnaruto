@@ -2,6 +2,7 @@
 tags:
   - event
   - duongnd
+  - readyUI
 ---
 # Vị trí tính năng
 Tại [[Lobby System (Home)]], ấn vào **Nạp lần đầu**.
