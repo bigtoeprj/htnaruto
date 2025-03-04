@@ -109,6 +109,7 @@ Chỉ có hội trưởng và hội phó mới có thể khai trừ người ch�
 Thuyền trưởng có thể khai trừ mọi chức vụ (bao gồm cả thuyền phó)
 Thuyền phó có thể khai trừ thuyền viên ra khỏi hạm đội
 
+Khi Thuyền trưởng không online từ 5 ngày trở đi (120 tiếng) sẽ tự động thoát hạm đội và trao lại thuyền trưởng cho người có cống hiến cao nhất trong tuần
 ### [3] Cài đặt hạm đội
 ![[20241225100849.png]]
 
