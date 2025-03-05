@@ -224,10 +224,16 @@ Click vào trợ giúp sẽ ra [[Pop-up]] trợ giúp
 Boss đã bị tiêu diệt sẽ có lớp xám bên trên và dấu X đỏ
 Nếu chưa bị iêu diệt, boss sẽ có hình ảnh màu trong khung boss
 Boss chưa mở sẽ là dấu hỏi chấm 7 màu
-![[20241224160601.png]]
+![[20250305164039.png]]
 
-### Boss Thường
-![[20241224163619.png]]
+| ID  | Detail               |
+| --- | -------------------- |
+| 1   | % HP boss hiện tại   |
+| 2   | Thứ tự boss hiện tại |
+| 3   |                      |
+| 4   | Trợ giúp             |
+| 5   | Thoát                |
+### Boss Thường![[20241224163619.png]]
 
 | ID  | Detail                               |
 | --- | ------------------------------------ |
@@ -265,6 +271,11 @@ Người chơi có thể xem lại thông tin trận đấu và share cho bang h
 #### [5] Sát thương của người chơi trong bang
 Được sắp xếp theo thứ từ từ người có sát thương cao nhất xuống
 
+#### [6] Lịch sử boss
+![[20250305163916.png]]
+Khi click vào hình ảnh boss đã tiêu diệt sẽ xuất hiện bảng xếp hạng sát thương kèm thưởng của boss đó
+Sắp xếp theo lượng sát thương gây ra cho boss
+![[20250305164301.png]]
 ### [4]Boss Tinh Anh
 
 ![[20241224143825.png]]
