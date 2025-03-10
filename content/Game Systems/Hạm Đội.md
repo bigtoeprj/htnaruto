@@ -364,11 +364,34 @@ Người chơi click vào lớp nhân vật muốn nâng cấp
 Có 8 nâng cấp ở 1 lớp.
 Khi nâng đủ 10 level ở (5) Loại nâng cấp trước sẽ mở nâng cấp sau.
 Khi nâng đủ toàn bộ level của toàn bộ loại nâng cấp sẽ tăng 1 cấp độ chung của toàn bộ nâng cấp (14)
+- Danh sách kỹ năng + tài nguyên nâng cấp | **File Data**
 Nếu Beli hoặc huy hiệu hạm đội không đủ để nâng cấp sẽ hiển thị chữ  màu đỏ (9 và 10)
 Khi ấn vào nâng cấp khi không đủ beli hoặc huy hiệu hạm đội sẽ hiển thị text "không đủ tài nguyên"
 Khi ấn vào Trợ giúp (12) hẽ hiển thị [[Pop-up]] trợ giúp
 
 ![[20241227154921.png]]
+
+Danh sách các kỹ năng:
+
+| Tên kỹ năng        | Art                                  |
+| ------------------ | ------------------------------------ |
+| Máu                | ![[20250310105744.png]] |
+| Công               | ![[20250310105753.png]] |
+| Chí mạng           | ![[20250310105804.png]] |
+| Chặn               | ![[20250310105812.png]] |
+| Sát thương kỹ năng | ![[20250310105820.png]] |
+| Tốc độ             | ![[20250310105826.png]] |
+| Nhiệt huyết        | ![[20250310105832.png]] |
+| Cuồng nộ           | ![[20250310105839.png]] |
+
+| Class   | Màu đặc trưng |
+| ------- | ------------- |
+| Đấu sĩ  | Cam           |
+| Chỉ huy | Xanh dương    |
+| Xạ thủ  | Xanh lá       |
+| Kiếm sĩ | Đỏ            |
+| Hỗ trợ  | Hồng          |
+
 
 
 ### [4] Bang Quest
