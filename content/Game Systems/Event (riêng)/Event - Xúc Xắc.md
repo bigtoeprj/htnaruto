@@ -109,3 +109,5 @@ Trong **thời gian diễn ra sự kiện**, người chơi sử dụng Xúc X�
 
 - Xúc xắc may mắn: ![[20250210153145.png]]
 - Bài tarot ![[20250210153057.png]]
+- Thưởng (7)
+![[MuMu12-20250313-162415.png]]
