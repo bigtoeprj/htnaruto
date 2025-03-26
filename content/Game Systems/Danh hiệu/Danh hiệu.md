@@ -5,13 +5,13 @@ tags:
 # Mô tả
 Tại màn MainMenu chọn [[Thông Tin (Avatar) System]] chọn [[Danh hiệu]] 
 
-![[Pasted image 20250326144106.png]]
+![[Danhhieu1.png]]
 ![[20241115172833.png]]
 
 
 Click Button [[Danh hiệu]] sẽ hiển thị màn bên dưới
 
-![[Pasted image 20250326150249.png]]
+![[Danhhieu2.png]]
 
 
 
